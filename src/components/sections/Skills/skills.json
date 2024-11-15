@@ -35,13 +35,10 @@
     "id": "upcoming",
     "name": "Upcoming",
     "skillset": [
-      "Vue.js",
-      "Typescript",
-      "UX Design",
-      "3D Design",
-      "Ionic",
-      "NextJS",
-      "React Native"
+      "Laravel",
+      "Alpine.js",
+      "Livewire",
+      "UX Design"
     ]
   },
   {
