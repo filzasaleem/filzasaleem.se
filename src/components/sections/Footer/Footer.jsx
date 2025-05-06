@@ -21,11 +21,9 @@ export const Footer = () => {
         <div className="contact-info">
           <Heading level={4} text={"Filza Saleem"} />
           <a href="tel:+730300766">
-            <Heading level={4} text={"+46(0)70817 21 48"} />
+            <Heading level={4} text={"+46737324136"} />
           </a>
-          <a href="mailto:hey@filzasaleem.se">
-            <Heading level={4} text={"hey@filzasaleem.se"} />
-          </a>
+         
         </div>
         <div className="icons">
           <a href="https://www.linkedin.com/in/filza-saleem-171ba9131/">
@@ -44,14 +42,7 @@ export const Footer = () => {
               ImageAltText={"Link to GitHub"}
             />
           </a>
-          <a href="https://stackoverflowteams.com/c/technigo/users/578/">
-            <Image
-              sectionClassName={"icon-box"}
-              elementClassName={"icon"}
-              link={"/assets/icons/stackoverflow.svg"}
-              ImageAltText={"Link to StackOverflow"}
-            />
-          </a>
+        
         </div>
       </div>
     </footer>
