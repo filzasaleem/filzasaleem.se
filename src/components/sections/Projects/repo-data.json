@@ -2,45 +2,74 @@
   "projects": [
     {
       "id": 7,
-      "repoName": "final-project-mobile-recycle-app",
-      "publicName": "TechCycle - Buy and sell used phones",
-      "imageUrl": "../../../assets/project-img/techcycle.jpg"
+      "repoName": "final-project-ReShare-app",
+      "publicName": "ReShare - to borrow and lend items ",
+      "description": " A project designed and build during Technigo's upskill course in javaScript and React. The ReShare is a mission aligned with Agenda 2030 - Addressing siciatal challanges through innovative solutions.It was a collaborative front end project which was completed in three weeks and we applied all the knowledge we learned during the course. designed and built a fullstack app in three weeks, applying everything we had learned during the course. We followed an agile process, collaborated on GitHub, and regularly demoed our progress.",
+      "techStacks":["React","javascript","mongodb","CSS","Postman","API's"],
+      "imageUrl": "../../../assets/project-img/reshare.png",
+      "link": "https://stirring-florentine-c4bb3f.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/ReShare/tree/main"
     },
     {
       "id": 6,
       "repoName": "technigo-project-todos-redux",
       "publicName": "Task Management App",
-      "imageUrl": "../../../assets/project-img/task.jpg"
+      "description": "Developed as part of a team project with the goal of learning React and Redux. The application allows users to create and manage goal-oriented projects with nested tasks, as well as standalone individual tasks. Focus was on state management, task hierarchy, and user-friendly interaction.",
+      "techStacks":["React","javascript","Redux","CSS"],
+      "imageUrl": "../../../assets/project-img/task.jpg",
+      "link": "https://filzas-todo-app.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main"
     },
     {
       "id": 5,
       "repoName": "todo-app-react",
-      "publicName": "Todo App",
-      "imageUrl": "../../../assets/project-img/todo.jpg"
+      "publicName": "Quiz App",
+      "description": "A fun and educational quiz game built with React and Redux, designed to test users’ knowledge about Sweden. Players earn 2 points for correct answers and lose 1 point for wrong or unanswered ones. Features include a countdown timer, real-time feedback, and a final score summary. The app emphasizes clean UI and responsive user experience.",
+      "techStacks":["React","Redux","javascript"],
+      "imageUrl": "../../../assets/project-img/todo.jpg",
+      "link": "https://funn-quizz.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/project-redux-quiz-week8"
     },
     {
       "id": 4,
       "repoName": "technigo-project-movies-vite",
       "publicName": "Movie App",
-      "imageUrl": "../../../assets/project-img/movie.jpg"
+      "description": "Utilizing themoviedb.org's API to showcase movies and their details. Features include fetching popular movies, rendering movie details, and managing image URLs. Designed with a focus on responsiveness and accessibility. Enhancements include error handling, loading states, and dynamic movie lists.",
+      "techStacks":["React","javascript","CSS","Postman","API's"],
+      "imageUrl": "../../../assets/project-img/movie.jpg",
+      "link": "https://filzas-movies-project.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/project-movies-vite-week7"
     },
     {
       "id": 3,
       "repoName": "ps-project-happy-thought",
       "publicName": "Happy Thoughts",
-      "imageUrl": "../../../assets/project-img/happy.jpg"
+      "description": "A React frontend project focused on state management and API interactions for fetching and posting data in a feed.",
+      "techStacks":["React","javascript","CSS","Postman","API's"],
+      "imageUrl": "../../../assets/project-img/happy.jpg",
+      "link": "https://filzas-happy-thoughts-project.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/project-happy-thoughts-vite-week6"
     },
     {
       "id": 2,
       "repoName": "technigo-project-music-releases-vite",
       "publicName": "Music Release App",
-      "imageUrl": "../../../assets/project-img/music.jpg"
+      "description": "A React frontend project focused on state management and API interactions for fetching and posting data in a feed.",
+      "techStacks":["React","javascript","CSS","Postman","API's"],
+      "imageUrl": "../../../assets/project-img/music.jpg",
+      "link":"https://our-music-release-project.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/project-music-releases-vite-week4?tab=readme-ov-file"
     },
     {
       "id": 1,
       "repoName": "technigo-project-weather-app-2023",
       "publicName": "Weather App",
-      "imageUrl": "../../../assets/project-img/weather.jpg"
+      "description": "A React frontend project focused on state management and API interactions for fetching and posting data in a feed.",
+      "techStacks":["javascript","DOM manipulation","CSS","Postman","API's"],
+      "imageUrl": "../../../assets/project-img/weather.jpg",
+      "link": "https://filzas-weather-app.netlify.app/",
+      "gitLink" : "https://github.com/filzasaleem/project-weather-app-week3?tab=readme-ov-file"
+
     }
   ]
 }

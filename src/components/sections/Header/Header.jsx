@@ -6,7 +6,7 @@ import { Image } from "../../styles/images/Image";
 
 export const Header = () => {
   const introText =
-    "I am a Full Stack Developer with a passion for UX/UI design and a background in interior design. My goal is to constantly challenge myself with new technologies and skills, creating user-friendly and innovative products. I really thrive in roles where I can blend my two big passions: design and web development.";
+    "I am a Full Stack Developer with previous academic background in embedded systems. The coding logic comes easy for me and I can easily learn new tech stacks. I’m ready to take on greater responsibilities in web development at a company that values dedication and fosters professional development.";
 
   return (
     <header tabIndex="0">
@@ -14,14 +14,14 @@ export const Header = () => {
         <Image
           sectionClassName={"profile-img"}
           elementClassName={"circle-img"}
-          link={"/assets/profile.jpeg"}
-          ImageAltText={"Profile Image of Pernilla"}
+          link={"/assets/profile1.jpg"}
+          ImageAltText={"Profile Image of Filza"}
         />
 
         <div className="headings">
           <Heading
             level={4}
-            text={"Hi, I'm Pernilla Sterner"}
+            text={"Hi, I'm Filza Saleem"}
             arial-label={"Developer greeing"}
             className={"intro-text"}
           />

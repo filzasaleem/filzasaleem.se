@@ -1,55 +1,47 @@
 [
   {
     "id": "code",
-    "name": "Code",
+    "name": "Code/FrameWorks",
     "skillset": [
-      "HTML5",
-      "CSS3",
-      "Tailwind",
+      "Laravel",
+      "PHP",
       "Javascript",
       "Typescript",
+      "jquery",
       "React",
-      "GitHub",
-      "MongoDB",
-      "Express",
-      "Mongoose",
-      "Node.js",
-      "PHP",
+      "HTML5",
+      "CSS3",
+      "Tailwind", 
       "Wordpress"
     ]
   },
   {
     "id": "tool-box",
-    "name": "Tool Box",
+    "name": "Databases",
     "skillset": [
-      "Adobe Illustrator",
-      "Adobe Photoshop",
-      "Figma",
-      "Postman",
-      "Slack",
-      "Microsoft",
-      "Mac OS"
+      "MongoDB",
+      "mysql",
+      "postgress"
     ]
   },
   {
     "id": "upcoming",
-    "name": "Upcoming",
+    "name": "Version control",
     "skillset": [
-      "Laravel",
-      "Alpine.js",
-      "Livewire",
-      "UX Design"
+      "Git",
+      "GitHub",
+      "GitLab"
     ]
   },
   {
     "id": "more",
     "name": "More",
     "skillset": [
-      "Web Design",
       "Agile methodology",
       "Collaborative work",
-      "UX Design",
-      "Team management"
+      "Team management",
+      "Postman",
+      "Slack"
     ]
   }
 ]

@@ -22,4 +22,4 @@
 
 ## View the project live
 
-[Portfolio](https://pernillasterner.netlify.app/)
+[Portfolio](https://filzasaleem.netlify.app/)

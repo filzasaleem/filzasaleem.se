@@ -6,7 +6,7 @@ export const FooterBanner = () => {
     <div className="banner">
       <Heading
         level={3}
-        text="Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer · Pernilla Sterner · Fullstack Developer"
+        text="Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer · Filza Saleem · Fullstack Developer"
         aria-label="true"
         className="scroll-text"
       />

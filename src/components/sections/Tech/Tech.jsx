@@ -4,7 +4,7 @@ import "./Tech.scss";
 
 export const Tech = () => {
   const techStack =
-    "HTML, CSS, Flexbox, Grids, TailwindCSS, JavaScript, Typescript, ES6, JSX, React.js, React Hooks, Node.js, Mongo DB, Express, PHP, Laravel, Alpin.js, Livewire, Web Accessibility, RestAPIs, mob-programming, pair-programming, GitHub, Agile, UI, Wordpress.";
+    "Laravel,PHP, React,React Hooks,Redux, JavaScript, Typescript,Mongo DB, mysql, RestAPIs,HTML, CSS, Flexbox, Grids, TailwindCSS, ES6, JSX, mob-programming, pair-programming, GitHub, Agile, Wordpress.";
   return (
     <section className="tech-section">
       <div className="tech-container">
