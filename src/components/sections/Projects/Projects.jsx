@@ -4,9 +4,6 @@ import { useState, useEffect } from "react";
 import { Heading } from "../../styles/typography/Heading";
 import { ProjectCard } from "./ProjectCard";
 
-
-// const API = "https://api.github.com/users/pernillasterner/repos?per_page=100";
-
 export const Projects = () => {
 
 
